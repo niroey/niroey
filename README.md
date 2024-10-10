@@ -1,4 +1,6 @@
-
+<div align= "center">
+    <img src="https://capsule-render.vercel.app/api?type=cylinder&color=gradient&height=120&text=Hello%20world!&animation=&fontColor=000000&fontSize=70" />
+    </div>
     <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 한성대학교 컴퓨터공학과 재학중인 22학번 하여린입니다. </h2>  
     <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> ㅎㅎ </div> 
