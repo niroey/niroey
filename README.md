@@ -1,5 +1,5 @@
 <div align= "center">
-    <img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:ffc2c2,100:fffafa&height=120&text=Hello%20I'm%20niroey!&animation=twinkling&fontColor=000000&fontSize=70" />
+    <img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:ffc2c2,100:fffafa&height=120&text=HelloI'm%20niroey&animation=twinkling&fontColor=000000&fontSize=70" />
     </div>
     <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 한성대학교 컴퓨터공학과 재학중인 22학번 하여린입니다. </h2>  
