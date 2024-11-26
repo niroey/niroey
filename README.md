@@ -8,19 +8,7 @@
 | 2024 시스코 이노베이션 챌린지 장려상  | 제 20회 한성공학경진대회 은상  |
 |   | <img src="https://github.com/user-attachments/assets/29691818-45ea-42f1-b5a1-ae8132c3289c" width="25%" height="25%">  |
 
-<div style="text-align: left;">
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h2> 
-    <br> 
-    <div align="center"> 
-        <a href="https://blog.naver.com/niroey">
-            <img src="https://img.shields.io/badge/Naver-03C75A?style=for-the-badge&logo=Naver&logoColor=white">
-        </a>
-        <a href="mailto:duflssla@gmail.com">
-            <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white">
-        </a>
-    </div>  
-    <br> 
-</div>
+
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
     <div  align= "center"> <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=Android&logoColor=white">
