@@ -2,19 +2,10 @@
   <img src="https://render.gitanimals.org/farms/niroey" width="600" height="300" />
 </a>
 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 한성대학교 컴퓨터공학과 재학중인 22학번 하여린입니다. </h2>  
-
-    <table style="margin: 0 auto;">
-        <tr>
-            <td style="font-weight: 700; font-size: 15px; color: #282d33; padding-right: 50px;">
-                [2024.04.30] 2024 시스코 이노베이션 챌린지 장려상 <br>
-                [2024.09.26] 제 20회 한성공학경진대회 은상
-            </td>
-            <td>
-                <img src="https://github.com/user-attachments/assets/29691818-45ea-42f1-b5a1-ae8132c3289c" width="25%" height="25%">
-            </td>
-        </tr>
-    </table>
+| [2024.04.30]  | [2024.09.26]  |
+|:-:|:-:|
+| 2024 시스코 이노베이션 챌린지 장려상  | 제 20회 한성공학경진대회 은상  |
+|   | <img src="https://github.com/user-attachments/assets/29691818-45ea-42f1-b5a1-ae8132c3289c" width="25%" height="25%">  |
 
 <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h2> 
