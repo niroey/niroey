@@ -17,7 +17,7 @@
 | 2024 시스코 이노베이션 챌린지 **장려상**  | 제 20회 한성공학경진대회 **은상**  | 2024 SW중심대학 연합 SW FESTIVAL **최우수상**  |
 | <img src="https://github.com/user-attachments/assets/4c9e2fc5-1586-4362-bf62-af4536882f3f" width="300px" height="200px"> |<img src="https://github.com/user-attachments/assets/29691818-45ea-42f1-b5a1-ae8132c3289c" width="150px" height="200px"> | <img src="https://github.com/user-attachments/assets/c5994e91-194c-4503-afb3-eea57326904c" width="130px" height="200px"> |
 
-<br>
+<br><br><br>
 
 
 <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 👾 Projects </h2> <br> 
@@ -48,6 +48,7 @@ AI 기반으로 메모와 공유가 간결한 시스템, <a href="https://github
           <br/><img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white">
           </div>
     </div>
+    <br><br><br>
     <div style="text-align: left;">
     <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> <div align= "center"> <img src="https://github-readme-stats.vercel.app/api?username=niroey&bg_color=180,fff0f0,00000000&title_color=5e5f7d&text_color=5e5f7d"
@@ -55,7 +56,7 @@ AI 기반으로 메모와 공유가 간결한 시스템, <a href="https://github
            /> </div> 
     </div>
     
-
+<br><br><br>
 ### 🙆 Contact Me ! 🙆
 <a href="https://www.instagram.com/niroey/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white"/></a> <a href=mailto:duflssla@gmail.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white&link=mailto:wjsdkfls03@gmail.com"> </a> 
 <br><br><br>
