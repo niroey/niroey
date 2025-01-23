@@ -15,7 +15,7 @@
 | [2024.04.30]  | [2024.09.26]  | [2024.11.27]  |
 |:-:|:-:|:-:|
 | 2024 시스코 이노베이션 챌린지 **장려상**  | 제 20회 한성공학경진대회 **은상**  | 2024 SW중심대학 연합 SW FESTIVAL **최우수상**  |
-| ![스크린샷 2025-01-23 오후 5 04 48](https://github.com/user-attachments/assets/3c99da22-33b7-43cd-a77d-9fdbc9829737) |<img src="https://github.com/user-attachments/assets/29691818-45ea-42f1-b5a1-ae8132c3289c" width="150px" height="200px"> | <img src="https://github.com/user-attachments/assets/c5994e91-194c-4503-afb3-eea57326904c" width="130px" height="200px"> |
+| ![스크린샷 2025-01-23 오후 5 04 48](https://github.com/user-attachments/assets/3c99da22-33b7-43cd-a77d-9fdbc9829737) | <img src="https://github.com/user-attachments/assets/3dc48a65-daf8-4756-988a-627682315f60" width="130px" height="200px" />| <img src="https://github.com/user-attachments/assets/c5994e91-194c-4503-afb3-eea57326904c" width="130px" height="200px"> |
 
 <br><br><br>
 
@@ -55,6 +55,8 @@ AI 기반으로 메모와 공유가 간결한 시스템, <a href="https://github
          /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=niroey&layout=compact&bg_color=180,fff0f0,00000000&title_color=5e5f7d&text_color=5e5f7d"
            /> </div> 
     </div>
+      
+    [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=niroey)](https://solved.ac/niroey/)
     
 <br><br><br>
 ### 🙆 Contact Me ! 🙆
