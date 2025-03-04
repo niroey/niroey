@@ -57,8 +57,6 @@ AI 기반으로 메모와 공유가 간결한 시스템, <a href="https://github
          /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=niroey&layout=compact&bg_color=180,fff0f0,00000000&title_color=5e5f7d&text_color=5e5f7d"
            /> </div> 
     </div>
-      
-    [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=niroey)](https://solved.ac/niroey/)
     
 <br><br><br>
 ### 🙆 Contact Me ! 🙆
