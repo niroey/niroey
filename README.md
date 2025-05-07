@@ -24,9 +24,9 @@
 
 <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 👾 Projects </h2> <br> 
 화장품 용기 분리수거 AIoT 시스템, <a href="https://github.com/HSU-REPLAY/Ecosmetic-Bin" target="_blank"> **_Ecosmetic Bin_** </a> <br>
-
 AI 기반으로 메모와 공유가 간결한 시스템, <a href="https://github.com/HwangCheese/QuickQuick" target="_blank"> **_Quick Quick_** </a> 
-<br><br><br>
+<br>
+모든지 찾아드립니다, <a href="https://github.com/HSU-Findit" target="_blank"> **_Find_it_** </a> <br><br><br>
 
 <div align= "center">
     </div>
