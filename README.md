@@ -19,15 +19,20 @@
 | [2025.02.05]  | [2025.05.26]  |   |
 | 2025 창의융합경진대회 **동상**  | 2024 **한성발전공헌상** |   |
 | 상장업데이트 예정 | 상장업데이트 예정 |  |
-<br><br><br>
 
 
-<h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 👾 Projects </h2> <br> 
+<br>
+<h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 📄 Projects & Research </h2> <br> 
 화장품 용기 분리수거 AIoT 시스템, <a href="https://github.com/HSU-REPLAY/Ecosmetic-Bin" target="_blank"> **_Ecosmetic Bin_** </a> <br>
 AI 기반으로 메모와 공유가 간결한 시스템, <a href="https://github.com/HwangCheese/QuickQuick" target="_blank"> **_Quick Quick_** </a> 
 <br>
-모든지 찾아드립니다, <a href="https://github.com/HSU-Findit" target="_blank"> **_Find_it_** </a> <br><br><br>
+모든지 찾아드립니다, <a href="https://github.com/HSU-Findit" target="_blank"> **_Find_it_** </a> <br><br>
 
+<h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 💪🏻 Experiences </h2>
+▶ 2024년 1학기 웹프로그래밍 기초 TA조교 <br>
+▶ 2024년 2학기 코딩라운지 조교
+
+<br><br>
 <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
     <div style="margin: ; text-align: left;" "text-align: left;"> <img src="https://img.shields.io/badge/Android-3DDC84?style=flat&logo=Android&logoColor=white">
@@ -54,7 +59,7 @@ AI 기반으로 메모와 공유가 간결한 시스템, <a href="https://github
           </div>
     </div>
     <div style="text-align: left;">
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h2> <br> 
+    <br><br><h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h2> <br> 
     <div style="text-align: left;"> <a href=https://hawhy.tistory.com/> <img src="https://img.shields.io/badge/Tistory-000000?style=flat&logo=Tistory&logoColor=white&link=https://hawhy.tistory.com/"> </a>
          <a href=mailto:duflssla@gmail.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white&link=mailto:duflssla@gmail.com"> </a>
           </div>  <br> 
