@@ -30,7 +30,7 @@ AI 기반으로 메모와 공유가 간결한 시스템, <a href="https://github
 
 <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 💪🏻 Experiences </h2>
 ▶ 2024년 1학기 웹프로그래밍 기초 TA조교 <br>
-▶ 2024년 2학기 코딩라운지 조교
+▶ 2024년 2학기 코딩라운지 조교 <br>
 ▶ 2025년 한성대학교 동계프로그래밍캠프 튜터
 
 <br><br>
