@@ -2,14 +2,16 @@
 
 **Ecosmetic Bin / Developer**  
 *2024.03 ~ 2024.12*  
-- AI 이미지 인식 기반 화장품 용기 분리수거 AIoT 시스템 개발  
-- 하드웨어-소프트웨어 연동 설계 및 테스트 진행  
+- 웹 서버 구축 및 데이터베이스 설계, 관리  
+- 안드로이드 앱 개발 및 유지보수  
+- 하드웨어-소프트웨어 연동 및 테스트 지원  
 
 **Quick Quick / Developer**  
 *2023.06 ~ 2024.02*  
-- AI 기반 메모 및 공유 시스템 개발  
+- AI 기반 메모 및 공유 시스템 개발
+- Flutter 기반 멀티플랫폼 앱 개발  
 - 메모 데이터 자동 분류 및 추천 알고리즘 구현  
-- 사용자 편의성을 고려한 UI/UX 개선  
+- UI/UX 개선 및 사용자 경험 최적화
 
 **Find_it / Developer**  
 *2022.09 ~ 2023.05*  
@@ -42,4 +44,4 @@
 
 **Languages:** Java, Python, C, C++  
 **Web & Frontend:** HTML, CSS, JavaScript, React  
-**Database & Tools:** MySQL, Git, Linux  
+**Database & Tools:** MySQL, Git, Linux, Figma, Notion
