@@ -18,7 +18,7 @@
 - 정보 검색 서비스 개발  
 - 데이터 크롤링 및 정제 자동화 도구 개발
 
-**시각장애인 보조 비평탄 지형 극복 AMR / Assistant** 
+**[시각장애인 보조 비평탄 지형 극복 AMR / Assistant](https://drive.google.com/drive/folders/1ybaiJ-iOAZ5ufcxMnIuhu0liEit9BXTL)** 
 *2024.03 ~ 2025.02*  
 - 시각장애인용 스마트 어플리케이션 '도우미' 설계 및 개발  
 - YOLO 기반 전방 장애물 탐지 시스템 구현, 실시간 알림 제공  
